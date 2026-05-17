@@ -5,7 +5,7 @@ import tsconfigPaths from 'vite-tsconfig-paths';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/tma-reactjs-template/',
+  base: '/tma_ton_check/',
   css: {
     preprocessorOptions: {
       scss: {
